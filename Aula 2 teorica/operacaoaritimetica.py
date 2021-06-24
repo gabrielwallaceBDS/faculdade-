@@ -23,7 +23,7 @@ PSEUDOCODIGO    PYTHON  OPERACAO
      *             *    MULTIPLICACAO
      /             /    DIVISAO(COM CASAS DECIMAIS)
 NAO EXISTE         //   DIVISAO(SOMENTE A PARTE INTEIRA)
-    MOD            %    MODULO/RESTO DA DIVISAO
+    MOD            %     MODULO/RESTO DA DIVISAO
      ^             **   EXPONENCIACAO OU POTENCIACAO
 """
 
