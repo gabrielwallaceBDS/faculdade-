@@ -4,8 +4,21 @@
 # FUNCOES TORNAM PROGRAMAS MAIS PORTAVEIS 
 # FUNCOES AUXILIAM NO TRABALHO COLABORATIVO 
 # PRIMEIRA FUNCAO 
+""""
 print('|', '__' * 10, '|')
 print('           MENU')
 print('|', '__' * 10, '|')
 print('|', '__' * 10, '|')
 
+"""
+
+# funcao 
+def realce():
+    #corpo da funcao
+    print('|','__' * 10,'|')
+    print('|','__' * 10,'|')
+
+#programa principal
+realce()
+print('           MENU')
+realce()
