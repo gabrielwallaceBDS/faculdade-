@@ -5,3 +5,4 @@ AND         E           CONJUNCAO
 OR          OU          DISJUNCAO
 """
 
+print('oi')

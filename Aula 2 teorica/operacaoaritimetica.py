@@ -27,3 +27,4 @@ NAO EXISTE         //   DIVISAO(SOMENTE A PARTE INTEIRA)
      ^             **   EXPONENCIACAO OU POTENCIACAO
 """
 
+print((1/2+3) + (1 + 4/ 2))
