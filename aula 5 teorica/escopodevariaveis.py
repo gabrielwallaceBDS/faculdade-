@@ -16,8 +16,8 @@ comida()
 
 # outro exemplo 
 
-def comida():
-  ovos = 12
+def comida():#defini comida como funcao 
+  ovos = 12 
   bacon()
   print(ovos)
 
